@@ -1,0 +1,6 @@
+C:\Users\Ravi Teja\source\repos\EmailNotificationService\MyCompany\bin\Debug\MyCompany.dll
+C:\Users\Ravi Teja\source\repos\EmailNotificationService\MyCompany\bin\Debug\MyCompany.pdb
+C:\Users\Ravi Teja\source\repos\EmailNotificationService\MyCompany\obj\Debug\MyCompany.csprojAssemblyReference.cache
+C:\Users\Ravi Teja\source\repos\EmailNotificationService\MyCompany\obj\Debug\MyCompany.csproj.CoreCompileInputs.cache
+C:\Users\Ravi Teja\source\repos\EmailNotificationService\MyCompany\obj\Debug\MyCompany.dll
+C:\Users\Ravi Teja\source\repos\EmailNotificationService\MyCompany\obj\Debug\MyCompany.pdb
